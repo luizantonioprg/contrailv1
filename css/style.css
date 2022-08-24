@@ -396,7 +396,7 @@ background:#008000;
 }
 
 #containerMeio{
-  background-image:url("../wallpapercontainer.jpg");
+  background-image:url("../wallpaperContainer.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; 
